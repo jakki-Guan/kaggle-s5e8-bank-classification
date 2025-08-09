@@ -1,0 +1,16 @@
+name: s5e8
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - lightgbm
+  - xgboost
+  - catboost
+  - matplotlib
+  - seaborn
+  - shap
+  - ipywidgets
