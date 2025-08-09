@@ -1,5 +1,7 @@
 # Kaggle Playground Series S5E8  Bank Binary Classification
 Reproducible workflow for Kaggle S5E8 (Bank dataset). Predict probability of `y`. Metric: **ROC AUC**.
+[![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/notebooks/eda_and_baseline.ipynb)
 
 ## Structure
 notebooks/  # EDA + baselines
