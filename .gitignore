@@ -1,15 +1,39 @@
+# -------------------------
+# Python cache / artifacts
+# -------------------------
 __pycache__/
 *.py[cod]
 *.ipynb_checkpoints/
+
+# -------------------------
+# Virtual environments
+# -------------------------
 .venv/
 .env/
 env/
 venv/
+
+# -------------------------
+# Data, models, outputs
+# -------------------------
 data/
 inputs/
 outputs/
+models/
+submissions/*.zip
+
+# -------------------------
+# Serialized models
+# -------------------------
 *.model
 *.pkl
 *.joblib
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
+
